@@ -1,0 +1,25 @@
+# # # # # # # # # # # # # # # # # # # # # # # #
+#
+#  Developed by Minecraft Development Community
+#          (dsc.gg/mdcommunity)
+#
+#  Please rate the resource with honesty and suggest improvements
+#  and report bugs in the forum and discord community!
+#
+# # # # # # # # # # # # # # # # # # # # # # # #
+
+ZOMBIE:
+  disabled-worlds:
+    - 'world_the_end'
+  items:
+    ddd:
+      chance: 4
+      actions:
+        # PARTICLE_NAME COUNT EXTRA
+        - '[particle] FLAME 30 0.3'
+        - '[sound] BLOCK_NOTE_BLOCK_PLING 1.0 1.0'
+
+
+
+
+

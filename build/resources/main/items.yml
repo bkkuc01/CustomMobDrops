@@ -1,0 +1,18 @@
+# # # # # # # # # # # # # # # # # # # # # # # #
+#
+#  Developed by Minecraft Development Community
+#          (dsc.gg/mdcommunity)
+#
+#  Please rate the resource with honesty and suggest improvements
+#  and report bugs in the forum and discord community!
+#
+# # # # # # # # # # # # # # # # # # # # # # # #
+
+items:
+  ddd:
+    material: DIAMOND
+    name: '&bsuper diamond'
+    enchantments:
+      - 'DURABILITY;5'
+
+saved-items: {}

@@ -1,0 +1,7 @@
+name: CustomMobDrops
+version: '1.0'
+main: pl.bkkuc.custommobdrops.Plugin
+api-version: '1.16'
+
+commands:
+  mobdrops:
